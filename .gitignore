@@ -1,0 +1,14 @@
+.DS_Store
+.idea
+*.iml
+node_modules/
+*.log*
+npm-debug.log
+target/
+dist/
+coverage
+jest
+storybook-static/
+.watchmanconfig
+flow-typed
+package-lock.json

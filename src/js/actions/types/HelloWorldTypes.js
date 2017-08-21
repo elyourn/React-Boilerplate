@@ -1,0 +1,1 @@
+export const CHANGE_MESSAGES = '@@helloWorld/CHANGE_MESSAGE';
