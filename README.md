@@ -1,8 +1,8 @@
 # React-Boilerplate
 React Redux Webpack.
 <p>
-Install - npm install.<br />
-Start project - npm start.
+<b>Install</b> - npm install.<br />
+<b>Start project</b> - npm start.
 </p>
 <p>
 Additional libs:
