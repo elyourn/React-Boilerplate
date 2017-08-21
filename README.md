@@ -1,8 +1,10 @@
 # React-Boilerplate
 React Redux Webpack.
-
-Install - npm install.
+<p>
+Install - npm install.<br />
 Start project - npm start.
-
+</p>
+<p>
 Additional libs:
 Redux-act, Reselect, Babel, Sass.
+</p>
