@@ -16,6 +16,6 @@ const mapDispatchToProps = (dispatch) => {
 	};
 };
 
-const ContactList = connect(mapStateToProps, mapDispatchToProps)(View);
+const HelloWorldContainer = connect(mapStateToProps, mapDispatchToProps)(View);
 
-export default ContactList;
+export default HelloWorldContainer;
