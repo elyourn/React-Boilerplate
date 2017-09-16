@@ -27,4 +27,4 @@ View.propTypes = {
 	changeText: PropTypes.func
 }
 
-export default View;!
+export default View;
